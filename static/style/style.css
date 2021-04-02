@@ -110,6 +110,10 @@ nav {
     color:white;
 }
 
+.border-bottom {
+    font-family: 'Poppins', sans-serif;
+}
+
 
 
 header {
@@ -144,7 +148,9 @@ header {
     left :42%;
 }
 
-
+.money {
+    font-family : "poppins","sans-serif";
+}
 
 @media only screen and (max-width: 1200px) {
     .text {
